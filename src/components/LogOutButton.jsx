@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  TouchableOpacity, Text, StyleSheet, Alert ,
+  TouchableOpacity, Text, StyleSheet, Alert,
 } from 'react-native';
 import firebase from 'firebase';
 import { useNavigation } from '@react-navigation/native';
